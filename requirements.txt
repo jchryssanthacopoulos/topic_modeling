@@ -4,3 +4,5 @@ umap-learn
 hdbscan
 matplotlib
 jupyter
+bertopic
+top2vec
