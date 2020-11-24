@@ -130,3 +130,6 @@ dmypy.json
 
 # Data files
 *.csv
+
+# lda2vec progress file
+topic_modeling/lda2vec/progress.*

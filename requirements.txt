@@ -6,3 +6,4 @@ matplotlib
 jupyter
 bertopic
 top2vec
+-e git+git@github.com:jchryssanthacopoulos/lda2vec.git#egg=lda2vec
